@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
- <office:meta><meta:creation-date>2014-07-17T11:58:12.43</meta:creation-date><dc:title>HRa Space - Agent - Accueil - Planning</dc:title><dc:date>2022-05-17T16:44:26.123000000</dc:date><meta:editing-duration>P3DT6H22M44S</meta:editing-duration><meta:editing-cycles>267</meta:editing-cycles><meta:generator>LibreOffice/7.2.4.1$Windows_X86_64 LibreOffice_project/27d75539669ac387bb498e35313b970b7fe9c4f9</meta:generator><dc:creator>Thomas Pensec</dc:creator><meta:document-statistic meta:table-count="6" meta:cell-count="2802" meta:object-count="33"/></office:meta>
+ <office:meta><meta:creation-date>2014-07-17T11:58:12.43</meta:creation-date><dc:title>HRa Space - Agent - Accueil - Planning</dc:title><dc:date>2022-05-17T17:26:07.139000000</dc:date><meta:editing-duration>P3DT6H22M57S</meta:editing-duration><meta:editing-cycles>268</meta:editing-cycles><meta:generator>LibreOffice/7.2.4.1$Windows_X86_64 LibreOffice_project/27d75539669ac387bb498e35313b970b7fe9c4f9</meta:generator><dc:creator>Thomas Pensec</dc:creator><meta:document-statistic meta:table-count="6" meta:cell-count="2802" meta:object-count="28"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
+   <config:config-item config:name="VisibleAreaTop" config:type="int">451</config:config-item>
    <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
    <config:config-item config:name="VisibleAreaWidth" config:type="int">68837</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">8630</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">8179</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
@@ -201,10 +201,10 @@
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item-map-named config:name="ScriptConfiguration">
     <config:config-item-map-entry config:name="Congés 2022">
-     <config:config-item config:name="CodeName" config:type="string">Congés 2020_2</config:config-item>
+     <config:config-item config:name="CodeName" config:type="string">Feuille1</config:config-item>
     </config:config-item-map-entry>
     <config:config-item-map-entry config:name="Congés 2020">
-     <config:config-item config:name="CodeName" config:type="string">Feuille1</config:config-item>
+     <config:config-item config:name="CodeName" config:type="string">Congés 2020</config:config-item>
     </config:config-item-map-entry>
     <config:config-item-map-entry config:name="Congés 2019">
      <config:config-item config:name="CodeName" config:type="string">Congés 2019</config:config-item>
@@ -731,7 +731,7 @@
      <text:p><text:sheet-name>???</text:sheet-name><text:s/>(<text:title>???</text:title>)</text:p>
     </style:region-left>
     <style:region-right>
-     <text:p><text:date style:data-style-name="N2" text:date-value="2022-05-17">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="17:15:46.608000000">00:00:00</text:time></text:p>
+     <text:p><text:date style:data-style-name="N2" text:date-value="2022-05-17">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="17:25:54.703000000">00:00:00</text:time></text:p>
     </style:region-right>
    </style:header>
    <style:header-left style:display="false"/>
@@ -746,27 +746,6 @@
  <office:body>
   <office:spreadsheet>
    <table:table table:name="Congés 2022" table:style-name="ta1">
-    <table:shapes>
-     <draw:custom-shape draw:z-index="0" draw:style-name="gr1" draw:text-style-name="P1" svg:width="0.38cm" svg:height="0.448cm" svg:x="33.4cm" svg:y="0cm">
-      <text:p/>
-      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
-     </draw:custom-shape>
-     <draw:custom-shape draw:z-index="1" draw:style-name="gr2" draw:text-style-name="P2" svg:width="0.38cm" svg:height="0.448cm" svg:x="27.801cm" svg:y="0cm">
-      <text:p/>
-      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
-     </draw:custom-shape>
-     <draw:custom-shape draw:z-index="2" draw:style-name="gr3" draw:text-style-name="P3" svg:width="0.38cm" svg:height="0.448cm" svg:x="38.96cm" svg:y="0cm">
-      <text:p/>
-      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
-     </draw:custom-shape>
-     <draw:custom-shape draw:z-index="3" draw:style-name="gr4" draw:text-style-name="P4" svg:width="0.38cm" svg:height="0.449cm" svg:x="27.806cm" svg:y="0.903cm">
-      <text:p/>
-      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
-     </draw:custom-shape>
-     <draw:custom-shape draw:z-index="4" draw:style-name="gr5" draw:text-style-name="P5" svg:width="0.398cm" svg:height="0.448cm" svg:x="33.383cm" svg:y="0.857cm">
-      <text:p/>
-      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
-     </draw:custom-shape></table:shapes>
     <table:table-column table:style-name="co1" table:default-cell-style-name="ce1"/>
     <table:table-column table:style-name="co2" table:number-columns-repeated="31" table:default-cell-style-name="ce1"/>
     <table:table-column table:style-name="co1" table:default-cell-style-name="ce1"/>
